@@ -1,0 +1,11 @@
+| Gaps/Limitations | Darktrace | Vectra AI | Palo Alto Networks | Splunk | IBM QRadar | McAfee ESM | Your Product |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Limited integration with other security tools | No | No | Partial | No | Partial | Partial | Yes |
+| Lack of transparency | No | N/A | N/A | N/A | N/A | N/A | Yes |
+| Limited support for cloud environments | Partial | Partial | Partial | Partial | Partial | Partial | Yes |
+| Limited support for IoT devices | Partial | Partial | Partial | N/A | N/A | N/A | Yes |
+| Limited customization | N/A | No | N/A | N/A | Partial | N/A | Yes |
+| Complexity | Partial | N/A | Yes | Yes | Yes | Yes | Yes |
+| Limited support for non-vendor products | N/A | N/A | Partial | N/A | Partial | Partial | Yes |
+| Limited detection capabilities | N/A | N/A | Partial | N/A | N/A | N/A | Yes |
+| Limited visibility | N/A | Partial | N/A | N/A | N/A | Partial | Yes |
